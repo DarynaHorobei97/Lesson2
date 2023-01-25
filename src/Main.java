@@ -3,7 +3,7 @@ public class Main {
     static int a = 6;
 
     static void showText(String word) {
-        System.out.println(word);
+
     }
 
     static void showText(int number) {
